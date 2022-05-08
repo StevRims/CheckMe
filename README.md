@@ -36,9 +36,13 @@ Aucune donnée personnelle liée au lecteur d’empreinte n’est conservée par
 ****Données personnelles non collectées automatiquement:****
 
 Nous collectons des informations lors de la première authentification et de l’utilisation de la fonctionnalité « Clockage » de l’Application. Les informations suivantes sont collectées :
+
 • L’ID de l’appareil utilisé,
+
 • Quelle connexion est active (WiFi ou réseau mobile),
+
 • Les informations du réseau Wifi connecté
+
 
 Nous collectons des informations personnelles identifiables. Nous ne vendons pas, n’échangeons pas, ne transférons pas ces informations à d’autres tiers que le Serveur CheckMe.
 
